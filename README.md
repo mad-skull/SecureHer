@@ -1,5 +1,4 @@
-# Suraksha - Your travel buddy!
-![Logo](https://github.com/nb2998/Suraksha/blob/master/surakshaLogo.jpg)
+# SecureHer
 
 
 This is an android application based on the concept of women safety . 
